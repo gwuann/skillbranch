@@ -1,0 +1,8 @@
+ alle branches kan tonen via de command prompt 
+git branch --l
+
+branche renamed via de command prompt 
+git branch -m old-name new-name
+
+ branche delete via de command prompt 
+git branch --delete old-branch OF git branch -d old-branch
