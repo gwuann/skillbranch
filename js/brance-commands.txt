@@ -6,3 +6,9 @@ git branch -m old-name new-name
 
  branche delete via de command prompt 
 git branch --delete old-branch OF git branch -d old-branch
+
+wisselt je naar een andere branch
+git brance checkout
+
+merged een brance met een andere 
+git brance merge naam
